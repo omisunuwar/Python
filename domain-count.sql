@@ -1,0 +1,11 @@
+DELETE FROM Counts;    
+INSERT INTO Counts (org, count) VALUES ('iupui.edu',536);
+INSERT INTO Counts (org, count) VALUES ('umich.edu',491);
+INSERT INTO Counts (org, count) VALUES ('indiana.edu',178);
+INSERT INTO Counts (org, count) VALUES ('caret.cam.ac.uk',157);
+INSERT INTO Counts (org, count) VALUES ('vt.edu',110);
+INSERT INTO Counts (org, count) VALUES ('uct.ac.za',96);
+INSERT INTO Counts (org, count) VALUES ('media.berkeley.edu',56);
+INSERT INTO Counts (org, count) VALUES ('ufp.pt',28);
+INSERT INTO Counts (org, count) VALUES ('gmail.com',25);
+INSERT INTO Counts (org, count) VALUES ('et.gatech.edu',17); 
